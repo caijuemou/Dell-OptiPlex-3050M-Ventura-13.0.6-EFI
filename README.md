@@ -9,4 +9,4 @@ Dell OptiPlex 3050M Ventura 13.0.6 EFI
 | BT   |   Broadcom BCM94360CS2 BT4.0 |  
 
   
-Realease File : [Here](https://github.com/caijuemou/Dell-OptiPlex-3050M-Ventura-13.0.6-EFI/releases/download/Public/Dell.OptiPlex.3050M.Ventura.13.0.6.EFI.zip)  
+Download the [Realease File](https://github.com/caijuemou/Dell-OptiPlex-3050M-Ventura-13.0.6-EFI/releases/download/Public/Dell.OptiPlex.3050M.Ventura.13.0.6.EFI.zip)  
